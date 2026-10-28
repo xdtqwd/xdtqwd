@@ -70,6 +70,6 @@ Junior Go-разработчик, пишу бэкенд. Больше всего
 ## Стек
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,postgres,redis,kafka,docker,kubernetes,prometheus,grafana,githubactions,git&amp;theme=dark">
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,kafka,docker,kubernetes,prometheus,grafana,githubactions,git&amp;theme=light" alt="Go, PostgreSQL, Redis, Kafka, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, Git">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpostgres%2Credis%2Ckafka%2Cdocker%2Ckubernetes%2Cprometheus%2Cgrafana%2Cgithubactions%2Cgit&amp;theme=dark">
+  <img src="https://skillicons.dev/icons?i=go%2Cpostgres%2Credis%2Ckafka%2Cdocker%2Ckubernetes%2Cprometheus%2Cgrafana%2Cgithubactions%2Cgit&amp;theme=light" alt="Go, PostgreSQL, Redis, Kafka, Docker, Kubernetes, Prometheus, Grafana, GitHub Actions, Git">
 </picture>
